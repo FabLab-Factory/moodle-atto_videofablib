@@ -1,0 +1,10 @@
+{
+  "name": "moodle-atto_videofablib-button",
+  "builds": {
+    "moodle-atto_videofablib-button": {
+      "jsfiles": [
+        "button.js"
+      ]
+    }
+  }
+}
